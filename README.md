@@ -119,6 +119,7 @@ marketing-consumer-analysis/
 │
 ├── .gitignore
 └── README.md
+```
 
 ---
 
@@ -129,6 +130,7 @@ marketing-consumer-analysis/
 ```bash
 git clone [GitHub 저장소 주소]
 cd marketing-consumer-analysis
+```
 
 ---
 
