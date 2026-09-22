@@ -97,7 +97,7 @@ RFM 기반 고객 세분화를 통해 고객군별 특성을 파악한다.
 
 ---
 
-## 📂 프로젝트 구조
+## 📁 프로젝트 구조
 
 ```text
 marketing-consumer-analysis/
@@ -118,8 +118,7 @@ marketing-consumer-analysis/
 ├── report/
 │
 ├── .gitignore
-├── README.md
-└── requirements.txt
+└── README.md
 
 ---
 
